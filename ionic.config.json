@@ -1,5 +1,7 @@
 {
   "name": "fabric-booking-workspace-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
